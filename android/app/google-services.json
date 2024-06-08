@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736454868443",
+    "project_id": "blood-searcher",
+    "storage_bucket": "blood-searcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736454868443:android:52aed7a115022d10f97bfe",
+        "android_client_info": {
+          "package_name": "com.example.bloodsearcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzsCCg2Z6qwWQP9BeeJNceDRtH6SiLcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
